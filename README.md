@@ -60,6 +60,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/jiayz1997/Tweet/blob/master/tweet.gif' width='' alt='Video Walkthrough' />
+<img src='https://github.com/jiayz1997/Tweet/blob/master/Tweet_part2.gif' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
